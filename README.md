@@ -6,6 +6,8 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
+To show different parts of the Git repo.
+
 Sample website with plenty of files for demos
 
-##New section
+# New section
